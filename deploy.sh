@@ -1,2 +1,2 @@
 #!/bin/bash
-cp discord-inviter.py ..
+sudo cp discord-inviter.py ..
